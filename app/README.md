@@ -12,6 +12,6 @@ Le module requis est installé (exemple : PnP.PowerShell si le script interagit 
 
 Le script n?est pas bloqué par Windows (clic droit > Propriétés > Débloquer).
 
-Vous avez les autorisations nécessaires pour exécuter les commandes (ex. : accès administrateur, token, certificat, etc.).
+Vous avez les autorisations nécessaires pour exécuter les commandes (ex. : accès administrateur, token, certificat, etc.
 
 
